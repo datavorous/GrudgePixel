@@ -20,7 +20,7 @@ Here are some stunning art pieces created with GrudgePixel:
 
 | Art Piece       | Description               | Image                        |
 |-----------------|---------------------------|------------------------------|
-| ![Example Art 1](path/to/example-art1.png) | Pixel art of a character | ![Example Art 1](path/to/example-art1.png) |
+| ![Dwarf](https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/cute_.PNG) | ![Blob](https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/blob.PNG) | ![Girl](https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/girl.PNG) |
 | ![Example Art 2](path/to/example-art2.png) | Landscape scene | ![Example Art 2](path/to/example-art2.png) |
 | ![Example Art 3](path/to/example-art3.png) | Animated sprite | ![Example Art 3](path/to/example-art3.png) |
 
