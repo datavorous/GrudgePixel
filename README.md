@@ -20,7 +20,7 @@ GrudgePixel is a streamlined pixel art editor designed to provide an efficient a
 
 ## Download
 
-For more information and to download GrudgePixel, visit our [website](http://example.com).
+For more information and to download GrudgePixel, visit our [website](https://datavorous.github.io/GrudgePixel/).
 
 ## User Manual
 
@@ -64,7 +64,7 @@ For more information and to download GrudgePixel, visit our [website](http://exa
 
 ## Contributing
 
-We welcome contributions to improve GrudgePixel! Please refer to our [contributing guidelines](http://example.com/contributing) for more details.
+We welcome contributions to improve GrudgePixel! Please refer to our [contributing guidelines](http://example.com/) for more details.
 
 ## License
 
@@ -72,4 +72,4 @@ GrudgePixel is licensed under the GPL 3.0 License. See [LICENSE](LICENSE) for mo
 
 ## Contact
 
-For support or inquiries, please email us at [datavorous@example.com](mailto:696969@example.com).
+For support or inquiries, please create an issue.
