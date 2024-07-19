@@ -70,7 +70,7 @@ For more information and to download GrudgePixel, visit our [website](http://exa
 
 ## Contributing
 
-We welcome contributions to improve MinPX! Please refer to our [contributing guidelines](http://example.com/contributing) for more details.
+We welcome contributions to improve GrudgePixel! Please refer to our [contributing guidelines](http://example.com/contributing) for more details.
 
 ## License
 
