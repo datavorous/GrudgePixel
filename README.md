@@ -4,6 +4,12 @@
 
 GrudgePixel is a streamlined pixel art editor designed to provide an efficient and user-friendly experience. With its focus on speed, minimalism, and ease of use, GrudgePixel stands out as a top choice for both beginners and experienced pixel artists.
 
+## Showcase
+
+|         |               |                         |
+|-----------------|---------------------------|------------------------------|
+| ![Dwarf](https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/cute_.PNG) | ![Blob](https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/blob.PNG) | ![Girl](https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/girl.PNG) |
+
 ## Why GrudgePixel?
 
 **Optimized Performance**: GrudgePixel is engineered for exceptional speed and responsiveness. Unlike many pixel art editors that can be sluggish or bloated, GrudgePixel ensures smooth operation even with complex animations and large canvases.
@@ -13,16 +19,6 @@ GrudgePixel is a streamlined pixel art editor designed to provide an efficient a
 **Simplicity & Usability**: GrudgePixel offers an intuitive interface that eliminates the need for extensive training. Its minimalist design helps users focus on their art without being overwhelmed by extraneous tools and options.
 
 **Minimal Bloat**: Many pixel art editors come with a plethora of features that can make them cumbersome. GrudgePixel avoids this by providing only the essential tools needed for pixel art creation, ensuring a faster and more enjoyable user experience.
-
-## Showcase
-
-Here are some stunning art pieces created with GrudgePixel:
-
-| Art Piece       | Description               | Image                        |
-|-----------------|---------------------------|------------------------------|
-| ![Dwarf](https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/cute_.PNG) | ![Blob](https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/blob.PNG) | ![Girl](https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/girl.PNG) |
-| ![Example Art 2](path/to/example-art2.png) | Landscape scene | ![Example Art 2](path/to/example-art2.png) |
-| ![Example Art 3](path/to/example-art3.png) | Animated sprite | ![Example Art 3](path/to/example-art3.png) |
 
 ## Download
 
