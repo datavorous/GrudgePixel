@@ -11,8 +11,8 @@ GrudgePixel is a streamlined pixel art editor designed to provide an efficient a
     <td><img src="https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/girl.PNG" alt="Girl"></td>
   </tr>
   <tr>
-    <td></td>
-    <td><img src="https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/knight.PNG" alt="Centered Image"></td>
+    <td><img src="https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/frog.PNG" alt="frog"></td>
+    <td><img src="https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/knight.PNG" alt="knight"></td>
     <td></td>
   </tr>
 </table>
