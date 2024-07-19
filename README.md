@@ -30,51 +30,14 @@ GrudgePixel is a streamlined pixel art editor designed to provide an efficient a
 
 ## Download
 
-For more information and to download GrudgePixel, visit our [website](https://datavorous.github.io/GrudgePixel/).
+For more information and to download GrudgePixel, visit this [page](https://datavorous.github.io/GrudgePixel/).
 
 ## User Manual
-
-### Starting Up
-
-1. **Launch GrudgePixel**: Open the application to start working on your pixel art. The main screen displays your canvas, color palettes, and available tools.
-
-### Drawing
-
-- **Pencil Tool**: Click and drag with the left mouse button to draw on the canvas. Adjust the pencil size using the `[` and `]` keys to make your brush larger or smaller.
-- **Eraser Tool**: Hold down the right mouse button to erase parts of your artwork. The eraser size can be changed with the `[` and `]` keys.
-
-### Color Selection
-
-- **Choose a Color**: Click on the color palette to select a new color. The currently selected color is shown in the preview box located on the side of the canvas.
-- **Switch Palettes**: Use the `P` key to cycle through available color palettes. GrudgePixel supports multiple palettes, allowing for versatile color choices.
-
-### Frame Management
-
-- **Create New Frames**: Press `Ctrl + N` to create a new frame. Each frame is a separate layer for your animations or different versions of your artwork.
-- **Navigate Frames**: Use the left and right arrow keys to move between frames. This makes it easy to manage and edit animations.
-
-### Animation
-
-- **Play Animation**: Toggle animation playback with the `Space` key. Adjust the animation speed with the `Up` and `Down` arrow keys to control the frame rate.
-- **Frame Speed**: Increase or decrease the animation speed to see your work in motion at different rates.
-
-### Grid and Center Lines
-
-- **Show Grid**: Toggle the grid visibility with the `G` key. The grid helps with alignment and spacing.
-- **Show Center Lines**: Use the `X` key to show or hide center lines on the canvas for precise placement and symmetry.
-
-### File Handling
-
-- **Drop Images**: Drag and drop images onto the GrudgePixel window to import them. The imported image will automatically be resized and added to your current frame.
-- **Export Artwork**: Use the `Ctrl + E` shortcut to export your work. Each frame is saved as a PNG file in a specified directory.
-
-### Status and Feedback
-
-- **Status Messages**: Keep track of actions and tool usage via the status text displayed at the bottom of the screen. This provides real-time feedback on your current tool and actions.
+Please check out the manual [here](https://datavorous.github.io/GrudgePixel/#manual).
 
 ## Contributing
 
-We welcome contributions to improve GrudgePixel! Please refer to our [contributing guidelines](http://example.com/) for more details.
+We welcome contributions to improve GrudgePixel!
 
 ## License
 
