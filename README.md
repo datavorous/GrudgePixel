@@ -1,7 +1,5 @@
 # GrudgePixel
 
-![GrudgePixel](path/to/editor-image-placeholder.png)
-
 GrudgePixel is a streamlined pixel art editor designed to provide an efficient and user-friendly experience. With its focus on speed, minimalism, and ease of use, GrudgePixel stands out as a top choice for both beginners and experienced pixel artists.
 
 ## Showcase
