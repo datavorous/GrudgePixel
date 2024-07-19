@@ -6,11 +6,11 @@ GrudgePixel is a streamlined pixel art editor designed to provide an efficient a
 
 ## Why GrudgePixel?
 
-**Optimized Performance**: GrudgePixel is engineered for exceptional speed and responsiveness. Unlike many pixel art editors that can be sluggish or bloated, MinPX ensures smooth operation even with complex animations and large canvases.
+**Optimized Performance**: GrudgePixel is engineered for exceptional speed and responsiveness. Unlike many pixel art editors that can be sluggish or bloated, GrudgePixel ensures smooth operation even with complex animations and large canvases.
 
-**Memory Efficiency**: By avoiding unnecessary features and focusing on core functionality, MinPX keeps memory usage low. This allows it to run seamlessly on a variety of systems, including those with limited resources.
+**Memory Efficiency**: By avoiding unnecessary features and focusing on core functionality, GrudgePixel keeps memory usage low. This allows it to run seamlessly on a variety of systems, including those with limited resources.
 
-**Simplicity & Usability**: MinPX offers an intuitive interface that eliminates the need for extensive training. Its minimalist design helps users focus on their art without being overwhelmed by extraneous tools and options.
+**Simplicity & Usability**: GrudgePixel offers an intuitive interface that eliminates the need for extensive training. Its minimalist design helps users focus on their art without being overwhelmed by extraneous tools and options.
 
 **Minimal Bloat**: Many pixel art editors come with a plethora of features that can make them cumbersome. GrudgePixel avoids this by providing only the essential tools needed for pixel art creation, ensuring a faster and more enjoyable user experience.
 
@@ -42,7 +42,7 @@ For more information and to download GrudgePixel, visit our [website](http://exa
 ### Color Selection
 
 - **Choose a Color**: Click on the color palette to select a new color. The currently selected color is shown in the preview box located on the side of the canvas.
-- **Switch Palettes**: Use the `P` key to cycle through available color palettes. MinPX supports multiple palettes, allowing for versatile color choices.
+- **Switch Palettes**: Use the `P` key to cycle through available color palettes. GrudgePixel supports multiple palettes, allowing for versatile color choices.
 
 ### Frame Management
 
@@ -61,7 +61,7 @@ For more information and to download GrudgePixel, visit our [website](http://exa
 
 ### File Handling
 
-- **Drop Images**: Drag and drop images onto the MinPX window to import them. The imported image will automatically be resized and added to your current frame.
+- **Drop Images**: Drag and drop images onto the GrudgePixel window to import them. The imported image will automatically be resized and added to your current frame.
 - **Export Artwork**: Use the `Ctrl + E` shortcut to export your work. Each frame is saved as a PNG file in a specified directory.
 
 ### Status and Feedback
@@ -74,8 +74,8 @@ We welcome contributions to improve GrudgePixel! Please refer to our [contributi
 
 ## License
 
-GrudgePixel is licensed under the -- License. See [LICENSE](LICENSE) for more information.
+GrudgePixel is licensed under the GPL 3.0 License. See [LICENSE](LICENSE) for more information.
 
 ## Contact
 
-For support or inquiries, please email us at [your.email@example.com](mailto:your.email@example.com).
+For support or inquiries, please email us at [datavorous@example.com](mailto:696969@example.com).
