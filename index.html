@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GrudgePixel</title>
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            line-height: 1.6;
+            color: white;
+            background-color: rgb(13,17,22);
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 2em;
+            border-bottom: 1px solid white;
+            padding-bottom: 1em;
+        }
+        h1, h2, h3 {
+            color: white;
+        }
+        .download-btn {
+            display: inline-block;
+            background-color: white;
+            color: rgb(13,17,22);
+            padding: 10px 20px;
+            text-decoration: none;
+            margin-top: 1em;
+            transition: all 0.3s ease;
+        }
+        .download-btn:hover {
+            background-color: rgb(13,17,22);
+            color: white;
+            border: 1px solid white;
+        }
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1em;
+        }
+        .feature {
+            border: 1px solid white;
+            padding: 1em;
+        }
+        .showcase {
+            display: flex;
+            justify-content: space-between;
+            margin: 2em 0;
+        }
+        .showcase img {
+            max-width: 30%;
+            height: auto;
+            border: 1px solid white;
+        }
+        .manual {
+            background-color: rgb(13,17,22);
+            padding: 20px;
+            border: 1px solid white;
+        }
+        ul, ol {
+            padding-left: 20px;
+        }
+        a {
+            color: white;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>GrudgePixel</h1>
+        <p>0 bloat. Efficient. Fast.</p>
+        <a href="https://github.com/datavorous/GrudgePixel/releases/download/Usable/GrudgePixel-Windows-exe.zip" class="download-btn">Download for Windows</a>
+    </header>
+
+    <section>
+        <h2>&gt; Why GrudgePixel?</h2>
+
+        <div class="features">
+            <div class="feature">
+                <h3>Performance</h3>
+                <p>Optimized for speed and responsiveness with Minimal memory footprint</p>
+            </div>
+            <div class="feature">
+                <h3>Simplicity</h3>
+                <p>Intuitive interface, zero learning curve</p>
+            </div>
+            <div class="feature">
+                <h3>Focus</h3>
+                <p>Essential tools only, no bloat</p>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>&gt; Showcase</h2>
+        <div class="showcase">
+            <img src="https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/cute_.PNG" alt="Pixel Character">
+            <img src="https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/girl.PNG" alt="girl">
+            <img src="https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/blob.PNG" alt="Animated Sprite">
+        </div>
+    </section>
+
+    <section class="manual">
+        <h1>&gt; Quick Start</h1>
+        
+
+                <h2>1. Getting Started</h2>
+                <p>When you launch GrudgePixel, you'll be presented with three canvas size options:</p>
+                <ul>
+                    <li>8 x 8</li>
+                    <li>16 x 16</li>
+                    <li>32 x 32</li>
+                </ul>
+                <p>Click on your preferred size to begin.</p>
+
+                <h2>2. Interface Overview</h2>
+                <p>The main interface consists of:</p>
+                <ul>
+                    <li>Main canvas (420x420 pixels)</li>
+                    <li>Color palette (right side)</li>
+                    <li>Animation preview (top right)</li>
+                    <li>Status bar (bottom)</li>
+                </ul>
+
+                <h2>3. Drawing Tools</h2>
+                <h3>3.1 Pencil</h3>
+                <p>Left-click and drag on the canvas to draw. The pencil size can be adjusted.</p>
+
+                <h3>3.2 Eraser</h3>
+                <p>Right-click and drag on the canvas to erase.</p>
+
+                <h3>3.3 Color Picker</h3>
+                <p>Middle-click on a pixel to select its color.</p>
+
+                <h2>4. Color Selection</h2>
+                <p>Click on a color in the palette to select it. Use the 'P' key to switch between three different color palettes.</p>
+
+                <h2>5. Canvas Navigation</h2>
+                <table>
+                    <tr>
+                        <th>Key</th>
+                        <th>Function</th>
+                    </tr>
+                    <tr>
+                        <td>G</td>
+                        <td>Toggle grid lines</td>
+                    </tr>
+                    <tr>
+                        <td>X</td>
+                        <td>Toggle center lines</td>
+                    </tr>
+                    <tr>
+                        <td>M</td>
+                        <td>Toggle mirror mode</td>
+                    </tr>
+                    <tr>
+                        <td>[</td>
+                        <td>Decrease pencil size</td>
+                    </tr>
+                    <tr>
+                        <td>]</td>
+                        <td>Increase pencil size</td>
+                    </tr>
+                    <tr>
+                        <td>C</td>
+                        <td>Clear current frame</td>
+                    </tr>
+                </table>
+
+                <h2>6. Frame Management</h2>
+                <table>
+                    <tr>
+                        <th>Key Combination</th>
+                        <th>Function</th>
+                    </tr>
+                    <tr>
+                        <td>Ctrl + N</td>
+                        <td>Create a new frame</td>
+                    </tr>
+                    <tr>
+                        <td>Left Arrow</td>
+                        <td>Go to previous frame</td>
+                    </tr>
+                    <tr>
+                        <td>Right Arrow</td>
+                        <td>Go to next frame</td>
+                    </tr>
+                </table>
+
+                <h2>7. Animation</h2>
+                <table>
+                    <tr>
+                        <th>Key</th>
+                        <th>Function</th>
+                    </tr>
+                    <tr>
+                        <td>Space</td>
+                        <td>Play/Pause animation</td>
+                    </tr>
+                    <tr>
+                        <td>Up Arrow</td>
+                        <td>Increase animation speed</td>
+                    </tr>
+                    <tr>
+                        <td>Down Arrow</td>
+                        <td>Decrease animation speed</td>
+                    </tr>
+                </table>
+
+                <h2>8. File Operations</h2>
+                <h3>8.1 Importing Images</h3>
+                <p>Drag and drop an image file onto the GrudgePixel window to import it. The image will be automatically resized to fit the current canvas size.</p>
+
+                <h3>8.2 Exporting</h3>
+                <p>Press Ctrl + E to export all frames as individual PNG files. Files will be saved in a new directory named "session_[timestamp]".</p>
+
+                <h2>9. Status Information</h2>
+                <p>The status bar at the bottom of the screen provides the following information:</p>
+                <ul>
+                    <li>Current pixel coordinates</li>
+                    <li>Current tool or action status</li>
+                    <li>Mirror mode indicator (M)</li>
+                    <li>Current pencil size</li>
+                    <li>Current color preview</li>
+                    <li>Animation status (Paused/Playing)</li>
+                    <li>Current editing frame number</li>
+                    <li>Animation speed (FPS)</li>
+                    <li>Total number of frames</li>
+                </ul>
+
+                <h2>10. Tips and Tricks</h2>
+                <ul>
+                    <li>Use mirror mode (M) for symmetrical designs.</li>
+                    <li>Experiment with different color palettes using the 'P' key.</li>
+                    <li>Create animations by using multiple frames and adjusting the playback speed.</li>
+                    <li>Use the grid and center lines for precise pixel placement.</li>
+                    <li>Adjust the pencil size for different effects, from fine details to larger areas.</li>
+                </ul>
+
+                <h2>11. Troubleshooting</h2>
+                <p>If you encounter any issues:</p>
+                <ul>
+                    <li>Ensure you have the latest version of GrudgePixel.</li>
+                    <li>Check that all required files (palettes, textures) are in the correct directories.</li>
+                    <li>If the program crashes, try restarting it and reducing the number of frames or canvas size.</li>
+                </ul>
+                </section>
+            <center>
+    <footer>
+        <p><a href="https://github.com/datavorous/GrudgePixel">GitHub</a></p>
+    </footer>
+</body>
+</html>
