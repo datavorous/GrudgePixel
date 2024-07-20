@@ -63,4 +63,4 @@ GrudgePixel is licensed under the GPL 3.0 License. See [LICENSE](LICENSE) for mo
 
 ## Contact
 
-For support or inquiries, please create an issue.
+For support or inquiries, please create an issue or [email](river.shallow631@passinbox.com) me.
