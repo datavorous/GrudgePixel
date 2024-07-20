@@ -47,7 +47,7 @@ For more information and to download GrudgePixel, visit this [page](https://data
 
 
 > [!CAUTION]
-> This is **NOT** a virus. Check [here](https://www.virustotal.com/gui/file/f9045baa01ebd5227785c104dea1051a42ce1cc2da9b7576ba72b696aaac147b). If your system doesnt allow it, build from source, follow the raylib website.
+> This is **NOT** a virus. Check [here](https://www.virustotal.com/gui/file/f9045baa01ebd5227785c104dea1051a42ce1cc2da9b7576ba72b696aaac147b). If your system doesnt allow it, build from source, follow the raylib website. Learn how to [allow](https://github.com/docker/for-win/issues/13335#issuecomment-1483783763) it. [More](https://answers.microsoft.com/en-us/windows/forum/all/windows-defender-flagged-my-c-program-as-trojan/bfad521c-7129-4f63-8c84-98a16f0a50e2) details from Microsoft's forums.
 
 ## User Manual
 Please check out the manual [here](https://datavorous.github.io/GrudgePixel/#manual).
