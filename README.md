@@ -1,8 +1,17 @@
+<div align="center">
+   
 # GrudgePixel
+   
+<img src="Logo.png" alt="Logo" width="128" height="128">  
+</div>
+
+GrudgePixel is a streamlined pixel art editor designed to provide an efficient and user-friendly experience. With its focus on speed, minimalism, and ease of use, GrudgePixel stands out as a top choice for both beginners and experienced pixel artists.
+
+
 [![Github All Releases](https://img.shields.io/github/downloads/datavorous/GrudgePixel/total.svg)]() 
 <a href="https://github.com/datavorous/GrudgePixel/blob/master/LICENSE"><img src="https://img.shields.io/github/license/datavorous/GrudgePixel" alt="License"></a>
 
-GrudgePixel is a streamlined pixel art editor designed to provide an efficient and user-friendly experience. With its focus on speed, minimalism, and ease of use, GrudgePixel stands out as a top choice for both beginners and experienced pixel artists.
+
 
 ## Showcase
 
