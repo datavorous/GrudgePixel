@@ -1,15 +1,15 @@
 <div align="center">
    
 # GrudgePixel
-   
-<img src="Logo.png" alt="Logo" width="128" height="128">  
+[![Github All Releases](https://img.shields.io/github/downloads/datavorous/GrudgePixel/total.svg)]() 
+<a href="https://github.com/datavorous/GrudgePixel/blob/master/LICENSE"><img src="https://img.shields.io/github/license/datavorous/GrudgePixel" alt="License"></a>
+
 </div>
 
 GrudgePixel is a streamlined pixel art editor designed to provide an efficient and user-friendly experience. With its focus on speed, minimalism, and ease of use, GrudgePixel stands out as a top choice for both beginners and experienced pixel artists.
 
 
-[![Github All Releases](https://img.shields.io/github/downloads/datavorous/GrudgePixel/total.svg)]() 
-<a href="https://github.com/datavorous/GrudgePixel/blob/master/LICENSE"><img src="https://img.shields.io/github/license/datavorous/GrudgePixel" alt="License"></a>
+
 
 
 
@@ -40,7 +40,8 @@ GrudgePixel is a streamlined pixel art editor designed to provide an efficient a
 **Minimal Bloat**: Many pixel art editors come with a plethora of features that can make them cumbersome. GrudgePixel avoids this by providing only the essential tools needed for pixel art creation, ensuring a faster and more enjoyable user experience.
 
 > [!TIP]
-> Don't overthink about what to make or what colours to choose, just start creating!
+> Don't overthink about what to make or what colours to choose, just start creating!<br>
+> Use our [Photo Enhancer](Enhancer_GUI.py) for editing your pixel art! It supports resizing without quality loss, dithering and colour pallete optimizations. 
 
 ## Download
 
