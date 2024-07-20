@@ -39,10 +39,16 @@ GrudgePixel is a streamlined pixel art editor designed to provide an efficient a
 
 **Minimal Bloat**: Many pixel art editors come with a plethora of features that can make them cumbersome. GrudgePixel avoids this by providing only the essential tools needed for pixel art creation, ensuring a faster and more enjoyable user experience.
 
+> [!TIP]
+> Don't overthink about what to make or what colours to choose, just start creating!
+
 ## Download
 
 For more information and to download GrudgePixel, visit this [page](https://datavorous.github.io/GrudgePixel/).
-**NOTE:** This is not a virus. Check [here](https://www.virustotal.com/gui/file/f9045baa01ebd5227785c104dea1051a42ce1cc2da9b7576ba72b696aaac147b). If your system doesnt allow it, build from source, follow the raylib website.
+
+
+> [!CAUTION]
+> This is not a virus. Check [here](https://www.virustotal.com/gui/file/f9045baa01ebd5227785c104dea1051a42ce1cc2da9b7576ba72b696aaac147b). If your system doesnt allow it, build from source, follow the raylib website.
 
 ## User Manual
 Please check out the manual [here](https://datavorous.github.io/GrudgePixel/#manual).
