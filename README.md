@@ -14,7 +14,6 @@ GrudgePixel is a streamlined pixel art editor designed to provide an efficient a
 
 
 ## Showcase
-
 <table style="width:100%; text-align:center;">
   <tr>
     <td><img src="https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/cute_.PNG" alt="Dwarf"></td>
@@ -27,7 +26,6 @@ GrudgePixel is a streamlined pixel art editor designed to provide an efficient a
     <td><img src="https://raw.githubusercontent.com/datavorous/GrudgePixel/main/demo/amogus.PNG" alt="amogus"></td>
   </tr>
 </table>
-
 
 ## Why GrudgePixel?
 
