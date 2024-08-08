@@ -55,11 +55,11 @@ void keyStrokes()
                         {
                             if (mirror)
                             {
-                                frames[currentFrameEditing][((int)((GetMouseX()-grid_x)/pixel_size)+i)][((int)((GetMouseY()-grid_y)/pixel_size)+y)] = (Color){0,0,0,0};
-                                frames[currentFrameEditing][(NO_PIXEL - 1 - ((int)((GetMouseX()-grid_x)/pixel_size)+i))][((int)((GetMouseY()-grid_y)/pixel_size)+y)] = (Color){0,0,0,0};
+                                frames[currentFrameEditing][((int)((GetMouseX()-grid_x)/pixel_size)+i)][((int)((GetMouseY()-grid_y)/pixel_size)+y)] = Color{0,0,0,0};
+                                frames[currentFrameEditing][(NO_PIXEL - 1 - ((int)((GetMouseX()-grid_x)/pixel_size)+i))][((int)((GetMouseY()-grid_y)/pixel_size)+y)] = Color{0,0,0,0};
                             }
                             else
-                                frames[currentFrameEditing][((int)((GetMouseX()-grid_x)/pixel_size)+i)][((int)((GetMouseY()-grid_y)/pixel_size)+y)] = (Color){0,0,0,0};
+                                frames[currentFrameEditing][((int)((GetMouseX()-grid_x)/pixel_size)+i)][((int)((GetMouseY()-grid_y)/pixel_size)+y)] = Color{0,0,0,0};
                         }
         }
         status = "Eraser";
@@ -159,7 +159,7 @@ void keyStrokes()
 
         for (size_t imgs = 0; imgs < frames.size(); imgs++)
         {
-            Image p_img = GenImageColor(NO_PIXEL, NO_PIXEL, ((Color){0,0,0,0}));
+            Image p_img = GenImageColor(NO_PIXEL, NO_PIXEL, (Color{0,0,0,0}));
             for(int row=0; row<NO_PIXEL; row++)
                 for(int column=0; column<NO_PIXEL; column++)
                     ImageDrawPixel(&p_img, row, column, frames[imgs][row][column]);
