@@ -71,7 +71,7 @@ int main(void)
     {
         std::vector<Color> i_grid;
         for (int column = 0; column <= NO_PIXEL; column++)
-            i_grid.push_back((Color){0,0,0,0});
+            i_grid.push_back(Color{0,0,0,0});
         grid.push_back(i_grid);
     }
     frames.push_back(grid);
@@ -93,7 +93,7 @@ int main(void)
          
             if (chosen)
             {
-                ClearBackground((Color){13,17,27});
+                ClearBackground(Color{13,17,27});
                 DrawTexture(checked,grid_x,grid_y,WHITE);
                 DrawTexture(checked2,grid_x+canvas_side+10,grid_y,WHITE);
                 drawGrid();
