@@ -1,3 +1,11 @@
+### Closing Note
+
+I remember making the original version in 2021 while I was suffering from COVID. I still wonder how 14-year-old me could write such hardcoded code without any planning. 
+Cleaned (partially) and made public in 2024.
+Archiving this as a memoir (2025).
+
+---
+
 <div align="center">
    
 # GrudgePixel
